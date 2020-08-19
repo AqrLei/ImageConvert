@@ -21,9 +21,9 @@
 1. Groovy
 
 ```Groovy
-   classpath "com.aqrlei.plugin:ImageConvert:latest"
+   classpath "com.aqrlei.plugin:imageconvert:latest"
 
-   apply plugin: "com.aqrlei.plugin.imageConvert"
+   apply plugin: "com.aqrlei.plugin.imageconvert"
 
    imageConvert {
           enableWhenDebug = true 
@@ -40,12 +40,12 @@
 2. Kotlin
 
 ```Kotlin
-    classpath("com.aqrlei.plugin:ImageConvert:latest")
+    classpath("com.aqrlei.plugin:imageconvert:latest")
 
    import com.aqrlei.plugin.imageconvert.ImageConvertConfig.OptimizeType
 
    plugins {
-       id("com.aqrlei.plugin.imageConvert")
+       id("com.aqrlei.plugin.imageconvert")
    }
 
    imageConvert {
