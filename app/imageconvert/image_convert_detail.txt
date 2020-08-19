@@ -1,0 +1,30 @@
+
+OptimizeType=WEBP_CONVERT,  OptimizeFilePath=/Volumes/Macintosh_Data/projects/ImageConvert/app/src/main/res/mipmap-mdpi/ic_launcher_round.png, oldSize=3KB, newSize=2KB, reduceSize=538B, take time=979ms
+
+OptimizeType=WEBP_CONVERT,  OptimizeFilePath=/Volumes/Macintosh_Data/projects/ImageConvert/app/src/main/res/mipmap-mdpi/ic_launcher.png, oldSize=2KB, newSize=2KB, reduceSize=470B, take time=980ms
+
+OptimizeType=WEBP_CONVERT,  OptimizeFilePath=/Volumes/Macintosh_Data/projects/ImageConvert/app/src/main/res/mipmap-hdpi/ic_launcher_round.png, oldSize=5KB, newSize=4KB, reduceSize=775B, take time=988ms
+
+OptimizeType=WEBP_CONVERT,  OptimizeFilePath=/Volumes/Macintosh_Data/projects/ImageConvert/app/src/main/res/mipmap-hdpi/ic_launcher.png, oldSize=3KB, newSize=2KB, reduceSize=973B, take time=988ms
+
+OptimizeType=WEBP_CONVERT,  OptimizeFilePath=/Volumes/Macintosh_Data/projects/ImageConvert/app/src/main/res/mipmap-xxhdpi/ic_launcher.png, oldSize=7KB, newSize=5KB, reduceSize=2KB, take time=1009ms
+
+OptimizeType=WEBP_CONVERT,  OptimizeFilePath=/Volumes/Macintosh_Data/projects/ImageConvert/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png, oldSize=11KB, newSize=9KB, reduceSize=2KB, take time=1017ms
+
+OptimizeType=WEBP_CONVERT,  OptimizeFilePath=/Volumes/Macintosh_Data/projects/ImageConvert/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png, oldSize=10KB, newSize=6KB, reduceSize=3KB, take time=1023ms
+
+OptimizeType=WEBP_CONVERT,  OptimizeFilePath=/Volumes/Macintosh_Data/projects/ImageConvert/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png, oldSize=16KB, newSize=12KB, reduceSize=4KB, take time=1029ms
+
+OptimizeType=WEBP_CONVERT,  OptimizeFilePath=/Volumes/Macintosh_Data/projects/ImageConvert/app/src/main/res/mipmap-xhdpi/ic_launcher.png, oldSize=4KB, newSize=3KB, reduceSize=1KB, take time=26ms
+
+OptimizeType=WEBP_CONVERT,  OptimizeFilePath=/Volumes/Macintosh_Data/projects/ImageConvert/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png, oldSize=7KB, newSize=6KB, reduceSize=1KB, take time=30ms
+
+
+->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+optimizeType : webpConvert
+optimize Total num : 10
+before Image optimize: 72KB
+after Image optimize: 55KB
+Image optimize size: 17KB
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<-
+Total Time:1076ms

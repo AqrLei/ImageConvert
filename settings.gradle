@@ -1,0 +1,3 @@
+include ':imageconvert'
+include ':app'
+rootProject.name = "ImageConvert"

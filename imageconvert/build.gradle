@@ -1,0 +1,11 @@
+apply plugin: 'kotlin'
+
+
+dependencies {
+
+    implementation gradleApi()
+    implementation localGroovy()
+    implementation deps.android.plugin
+}
+
+apply from: rootProject.file("gradle/bintray_upload.gradle")
